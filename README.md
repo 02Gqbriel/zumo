@@ -39,4 +39,4 @@ In der Funktion `setup()` initialisiert das Programm die Linien- und Näherungss
 
 ## Hinweis
 
-Dies ist ein einfaches Beispiel dafür, wie der Zumo-Roboter mit Hilfe seiner Linien- und Näherungssensoren navigiert und zufällige Wendungen macht, wenn er ein Hindernis erkennt. Sie können den Code nach Belieben ändern und an Ihre Bedürfnisse anpassen.
+Dies ist ein einfaches Beispiel dafür, wie der Zumo-Roboter mit Hilfe seiner Linien- und Näherungssensoren navigiert und zufällige Wendungen macht, wenn er ein Hindernis erkennt. Sie können den Code nach Belieben ändern und an Ihre Bedürfnisse anpassen. 💫
